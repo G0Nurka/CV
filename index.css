@@ -1,0 +1,13 @@
+body{
+    background-color: #c9f3e4;
+}
+table{
+
+}
+hr{
+    border-style:dotted none none;
+    border-color: grey;
+    border-width:5px;
+    background-color: white;
+    width: 5%;
+}
